@@ -3,7 +3,8 @@ CourseProject
 This repository hosts the R code and documentation files for Coursera's "Getting and Cleaning data".
 
 The dataset being used is: Human Activity Recognition Using Smartphones
-Files
+
+# Files
 
 The code takes for granted all the data is present in the same folder, un-compressed and without names altered.
 
