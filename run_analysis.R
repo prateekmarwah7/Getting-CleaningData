@@ -1,5 +1,3 @@
-# Set working Directory
-setwd("C:/Users/shreya/Desktop/Getting_CleaningData")
 library(plyr)
 # Step 1
 # Merge the training and test data
