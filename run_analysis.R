@@ -1,4 +1,4 @@
-# Code for Project Assignment
+# Code for Project Assignment: Set folder with unzipped data files as working directory
 # Step 1
 # Merge the training and test data
 
